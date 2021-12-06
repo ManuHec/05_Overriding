@@ -2,8 +2,8 @@ package com.cc.java;
 
 public class GrandParent {
 
-    String sayHello(){
+    String sayHello() {
         return "Hello from GrandParent!";
     }
-    
+
 }
